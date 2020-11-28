@@ -7,6 +7,7 @@ CF=~/.bluemix/.cf/cfcli/cf
 #BLUE="\e[00;34m"
 #RED="\e[00;31m"
 #END="\e[0m"
+apt-get dist-upgrade
 BLUE=""
 RED=""
 END="==================================="
